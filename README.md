@@ -5,13 +5,16 @@ STATISTICAL REPORT
 1. Given the provided data, what are three conclusions we can draw about crowdfunding campaigns?
 
     The most common campaigns are to support art projects ie. theatre, film & video, and music respectively. However of these, there is roughly a 40% chance that the campaign will fail to meet its goal.
+    
     We can see from the line graph that when a campaign has a goal of over $50,000 there is a greater chance that it will fail.
     
         
 2. What are some limitations of this dataset?
 
     As the campaigns are from different countries, the currencies attached to them are different. We would want to make sure that all the campaigns are in the same currency to take exchange rates into account.
+    
     Within the statistical analysis, failed campaigns does not include campaigns that were actively cancelled by the organiser.
+    
     Most campaigns with a goal between $10,000 and $50,000 succeeded but there was only a total of 73 campaigns within that range. This is less than 1% of the total number of campaigns so is not reliable to get an accurate view of this goal range.
 
 3. What are some other possible tables and/or graphs that we could create and what additional value would they provide?
