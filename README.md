@@ -18,7 +18,8 @@ STATISTICAL REPORT
     Most campaigns with a goal between $10,000 and $50,000 succeeded but there was only a total of 73 campaigns within that range. This is less than 1% of the total number of campaigns so is not reliable to get an accurate view of this goal range.
 
 3. What are some other possible tables and/or graphs that we could create and what additional value would they provide?
-
+    
+    A pie chart based on Category would show the percentages of each type out of the data set easier.
     
 
 
