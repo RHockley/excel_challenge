@@ -12,6 +12,7 @@ STATISTICAL REPORT
 2. What are some limitations of this dataset?
 
     As the campaigns are from different countries, the currencies attached to them are different. We would want to make sure that all the campaigns are in the same currency to take exchange rates into account.
+    It would be better to compare campaigns of the same category to each other. Comparing 1000 random campaigns from different categories doesn't tell the most concise story.
     
     Within the statistical analysis, failed campaigns does not include campaigns that were actively cancelled by the organiser.
     
@@ -21,7 +22,8 @@ STATISTICAL REPORT
     
     A pie chart based on Category would show the percentages of each type out of the data set easier.
     
-
+BONUS STATISTICAL ANALYSIS
+    There is more variance with successful campaigns. This tells you that there is a wider range of campaigns that were successful. This makes sense because there were more successful campaigns than unsuccessful.
 
 # Excel Homework: Charting Crowdfunding
 
